@@ -1,0 +1,18 @@
+p{
+    font-size: 15px;
+}
+button{
+    background-color: rgba(255, 152, 0,0.7);
+    color: #000;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-weight: 600;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(255, 152, 0,0.8);
+}
+button:active{
+    background-color: rgba(255, 152, 0,0.9);
+}

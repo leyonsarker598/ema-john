@@ -1,0 +1,13 @@
+.shop{
+    display: flex;
+}
+.products{
+    width: 60%;
+    border-right: 1px solid #ddd;
+    margin-left: 200px;
+    padding: 10px;
+}
+.cart{
+    width: 30%;
+    padding: 10px;
+}
